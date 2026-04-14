@@ -20,25 +20,25 @@
     {
         "device_id": "ddad3dee85e78938",
         "key": "as123",
-        "expirydate": "18-12-2026",
+        "expirydate": "31-12-2026",
         "Allowoffline": false
     },
     {
         "device_id": "1a9bcef1220b9eda",
         "key": "as123",
-        "expirydate": "18-12-2026",
+        "expirydate": "31-12-2026",
         "Allowoffline": false
     },
     {
         "device_id": "a9b60bb6ad5a0717",
         "key": "as123",
-        "expirydate": "18-12-2026",
+        "expirydate": "31-12-2026",
         "Allowoffline": false
     },
     {
         "device_id": "815bb660b23e61c7",
         "key": "as123",
-        "expirydate": "18-12-2026",
+        "expirydate": "31-12-2026",
         "Allowoffline": false
     }
 ]
