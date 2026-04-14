@@ -46,5 +46,11 @@
         "key": "as1",
         "expirydate": "31-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c2f61dd1d3c168d9",
+        "key": "as2123",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
     }
 ]
