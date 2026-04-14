@@ -40,5 +40,11 @@
         "key": "as11123",
         "expirydate": "31-12-2026",
         "Allowoffline": false
+    },
+     {
+        "device_id": "1e5a3846606012d4",
+        "key": "as1",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
     }
 ]
