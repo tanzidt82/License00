@@ -58,5 +58,11 @@
         "key": "as51123",
         "expirydate": "31-12-2026",
         "Allowoffline": false
+    },
+        {
+        "device_id": "5ae3a07791e10b9d",
+        "key": "as213",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
     }
 ]
