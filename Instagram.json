@@ -2,67 +2,67 @@
     {
         "device_id": "device123",
         "key": "key12345",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": true
     },
     {
         "device_id": "device456",
         "key": "key67890",
-        "expirydate": "15-06-2026",
+        "expirydate": "15-06-2024",
         "Allowoffline": false
     },
     {
         "device_id": "f467186806e88144",
         "key": "as123",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": false
     },
     {
         "device_id": "1a9bcef1220b9eda",
         "key": "dg123",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": false
     },
     {
         "device_id": "a9b60bb6ad5a0717",
         "key": "dgd123",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": false
     },
     {
         "device_id": "815bb660b23e61c7",
         "key": "as1123",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": false
     },
     {
         "device_id": "8f0cb089e3b130de",
         "key": "as11123",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": false
     },
      {
         "device_id": "1e5a3846606012d4",
         "key": "as1",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": false
     },
     {
         "device_id": "c2f61dd1d3c168d9",
         "key": "as2123",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": false
     },
     {
         "device_id": "a85ee8962f0e44c1",
         "key": "as51123",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": false
     },
         {
         "device_id": "5ae3a07791e10b9d",
         "key": "as213",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2024",
         "Allowoffline": false
     }
 ]
